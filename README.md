@@ -60,8 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dipu-developer/dipu-developer/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
@@ -95,18 +93,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dipu-developer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/dipu-developer/dipu-developer/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
