@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Deepak Sharma from Valsas Gujarat.<br><br>
+Hi, I am Deepak Sharma from Valsad Gujarat.<br><br>
 
 
 ## 🌐 Socials:
